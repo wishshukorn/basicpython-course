@@ -1,2 +1,2 @@
 # basicpython-course
-คอร์ม Python for beginners for zero ของ ลุงวิศวกร สอนคำนวณ
+คอร์ส Python for beginners for zero ของ ลุงวิศวกร สอนคำนวณ
